@@ -4,7 +4,7 @@
 
 ## 概述
 
-待补充
+各篇记录当前所处的发展阶段见 [STATUS.md](STATUS.md)；整理成正式历史的步骤见 [TODO.md](TODO.md)。
 
 ## 许可
 
