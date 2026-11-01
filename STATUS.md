@@ -4,7 +4,7 @@
 
 | 记录 | 路径 | 当前阶段 |
 |:--|:--|:--|
-| 总述（原工程整体演化） | `intro/` | 婴儿期（`2_infant.md`） |
+| 总述（原工程整体演化） | `intro/` | 幼儿期（`3_toddler.md`） |
 | 形而上学 | `metaphysics/` | 出生（`1_birth.md`） |
 | 形而上学·范畴论 | `metaphysics/category/` | 出生（`1_birth.md`） |
 | 形而上学·本体论 | `metaphysics/ontology/` | 出生（`1_birth.md`） |
@@ -22,6 +22,7 @@
 | 孕育 | `0_pregnant.md`、`0_pregancy.md` |
 | 出生 | `1_birth.md` |
 | 婴儿期 | `2_infant.md` |
+| 幼儿期 | `3_toddler.md` |
 
 ## 说明
 
